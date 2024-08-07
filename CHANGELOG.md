@@ -48,6 +48,40 @@ Types of change:
 
 ### Fixed
 
+## June 11th 2024
+
+### Changed
+- [Python - the in operator - Change pq](https://github.com/enkidevs/curriculum/pull/3299)
+
+## April 24th 2024
+
+### Fixed
+- [Lua - Map Methods - Fix Typo in comment](https://github.com/enkidevs/curriculum/pull/3307)
+
+## April 17th 2024
+
+### Changed
+- [SQL - Multiple insights - replace playground urls](https://github.com/enkidevs/curriculum/pull/3305)
+
+## April 16th 2024
+
+### fixed
+- [CSharp - While Loops - Fix PQ and RQ](https://github.com/enkidevs/curriculum/pull/3304)
+- [Coding Intro - Programs and Data - fix broken link](https://github.com/enkidevs/curriculum/pull/3303)
+- [Multi Topic - Several insights - Remove suggestion for deprecated Atom editor](https://github.com/enkidevs/curriculum/pull/3302)
+- [Comp Sci - Several Insights - Replace broken links](https://github.com/enkidevs/curriculum/pull/3301)
+- [Generative Ai - Unsupervised Learning - Fix typos](https://github.com/enkidevs/curriculum/pull/3300)
+
+
+## March 18th 2024
+
+### Changed
+- [Python - get the most out of floats - remove type in the gap](https://github.com/enkidevs/curriculum/pull/3297)
+
+## March 13th 2024
+
+### Fixed
+- [Web - Sassscript interactive shell - remove type in the gap](https://github.com/enkidevs/curriculum/pull/3295)
 
 ## January 29th 2024
 
@@ -77,10 +111,85 @@ Types of change:
 - [Data Analysis with Python -  Rename topic to Python Data Analysis](https://github.com/enkidevs/curriculum/pull/3280)
 - [Python - Even or Odd Exercise - Change it to Positive or Negative](https://github.com/enkidevs/curriculum/pull/3281)
 
+## October 5th 2023
+
+### Changed
+- [Javascript - None types and Types - Split types workout](https://github.com/enkidevs/curriculum/pull/3273)
+  
+## September 21st 2023
+
+### Changed
+- [Javascript - Introjs and Js Basics - Split workout](https://github.com/enkidevs/curriculum/pull/3272)
+
+## September 7th 2023
+
+### Added
+- [CSharp - Add new topic](https://github.com/enkidevs/curriculum/pull/3259)
+
+## August 23rd 2023
+
+### Added
+- [Javascript - Assumed Knowledge Preface - add new insight](https://github.com/enkidevs/curriculum/pull/3261)
+
+## August 14th 2023
+
+### Changed
+- [CPP - several workouts - Remove all non-introduction aspects](https://github.com/enkidevs/curriculum/pull/3257)
+
+## August 9th 2023
+
+### Added
+- [CPP - Add New Topic](https://github.com/enkidevs/curriculum/pull/3252)
+
+### Fixed
+- [CPP - Compiler Language - Minor grammar fix](https://github.com/enkidevs/curriculum/pull/3256)
+
+## August 8th 2023
+
+### Changed 
+- [Sql - Dql - Rearange insights](https://github.com/enkidevs/curriculum/pull/3255)
+
+## August 2nd 2023
+
+### Changed
+- [Python - Functional Programming -  Split and revise insights](https://github.com/enkidevs/curriculum/pull/3253)
+
+## July 31st 2023
+
+### Fixed 
+- [Multiple Topics - JavaScript Python and Web - Fix incorrect and confusing questions](https://github.com/enkidevs/curriculum/pull/3254)
+
+## July 18th 2023
+
+### Changed
+- [Python - Functional Programming - Split and revise insights](https://github.com/enkidevs/curriculum/pull/3248)
+- [Python - Nose Testing - Replace Learn more link](https://github.com/enkidevs/curriculum/pull/3250)
+
+### Archived
+- [Python - Debugging with Print - Remove learn more link](https://github.com/enkidevs/curriculum/pull/3249)
+
+## July 10th 2023
+
+### Fixed
+- [Coding Intro - Hello Code - Improve Questions](https://github.com/enkidevs/curriculum/pull/3240)
+- [Coding Intro - Core Concepts - Fix typos](https://github.com/enkidevs/curriculum/pull/3242)
+
+## July 5th 2023
+
+### Changed
+- [Coding Intro - Core Concepts - Make insights more bite sized](https://github.com/enkidevs/curriculum/pull/3237/files)
+
+## July 4th 2023
+
+### Changed
+
+- [Computer Sci - Bellman Ford - Fix question](https://github.com/enkidevs/curriculum/pull/3239)
+
 ## June 26th 2023
 
 ### Changed
 - [Python - While loops - Fix wording](https://github.com/enkidevs/curriculum/pull/3232)
+- [Generative AI - Zero Shot Prompting - Make PQ True or false](https://github.com/enkidevs/curriculum/pull/3234)
 
 ## June 19th 2023
 
